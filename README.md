@@ -1,19 +1,9 @@
 # Exam_flutter
+A simple movie app
 
-A new Flutter project created with FlutLab - https://flutlab.io
+# Screenshots of the app
 
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![Alt text](./screenshots/movieApp1.png)
+![Alt text](./screenshots/movieApp2.png)
+![Alt text](./screenshots/movieApp3.png)
+![Alt text](./screenshots/movieApp4.png)
